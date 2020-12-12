@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Mukseh 👋
 
-<!--
-**MukeshBisht/MukeshBisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an Engineer, Reader, Learner and Techie
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anythink, happy to help!
+- 📫 Reach me: [linkedin]
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mukeshbisht&show_icons=true&hide_border=true" />
+</details>
+
+
+[linkedin]: https://www.linkedin.com/in/mukesh-bisht/
