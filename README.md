@@ -3,7 +3,7 @@
 ## I'm an Engineer, Reader, Learner and Techie
 
 - 🌱 I’m currently learning microservices.
-- 💬 Ask me about anythink, happy to help!
+- 💬 Ask me about anything, happy to help!
 - 📫 Reach me: [linkedin]
 - :heart_eyes_cat: Fun fact: I love cats.
 
