@@ -26,6 +26,10 @@
 <br />
 
 
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshbisht&theme=nord_bright" alt="mukeshbisht" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukeshbisht&theme=nord_bright" alt="mukeshbisht" />
+
+
 [linkedin]: https://www.linkedin.com/in/mukesh-bisht/
 [twitter]: https://twitter.com/_mbisht
 [instagram]: https://instagram.com/_mbisht
