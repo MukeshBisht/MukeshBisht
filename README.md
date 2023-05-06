@@ -2,7 +2,7 @@
 
 ## I'm an Engineer, Reader, Learner and Techie
 
-- 🌱 I’m currently learning microservices.
+- 🌱 I’m currently system design.
 - 📫 Reach me: [linkedin]
 - :heart_eyes_cat: Fun fact: I love cats.
 
